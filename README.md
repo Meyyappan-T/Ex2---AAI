@@ -72,10 +72,12 @@ print(result2)
 
 ## Output :
 ### result 1:
-![result1](./Screenshot%202025-04-07%20113835.png)
+![image](https://github.com/user-attachments/assets/bf9113e5-1639-482a-922c-80043fe7b6f4)
+
 
 ### result2
-![result2](./Screenshot%202025-04-07%20113835.png)
+![image](https://github.com/user-attachments/assets/d40d288e-bcf2-4959-a149-a7c925ec3dba)
+
 
 ### 
 
